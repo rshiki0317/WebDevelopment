@@ -1,0 +1,215 @@
+body {
+    margin:0px;
+    text-align: center;
+    font-family: 'Concert One', cursive;
+    
+}
+
+div {
+    
+}
+
+h1 {
+    font-size: 5.6rem;
+    margin: 0 auto;
+    color: #66BFBF;
+    
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+    font-family: 'Dongle', sans-serif;
+    text-decoration: none;
+    margin: 1rem 2rem;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+hr {
+    border: dotted;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-width: 15px;
+    width: 10%; 
+    border-color: #EAF6F6;
+}
+
+p {
+
+}
+
+/* class css */
+
+.top-container {
+    background-color: #EAF6F6;
+    align-content: center;
+    position: relative;
+    padding-top: 100px;
+    height: 85vh;
+}
+
+.middle-container-1 {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin: 2rem auto 2rem auto;
+}
+
+.middle-container-2 {
+    background-color: #EAF6F6;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin: 2rem auto 2rem auto;
+}
+
+.middle-container-3 {
+
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin: 2rem auto 2rem auto;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    margin: 2rem auto 2rem auto;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.top-cloud {
+    position: absolute;
+    right:20vw;
+    top: 5vw;
+}
+
+
+.bottom-cloud {
+    position: absolute;
+    left:20vw;
+    bottom:20vw;
+
+}
+
+.mountain {
+    position: absolute;
+    margin: 0 auto;
+    bottom: 0;
+    right: 25vw;
+    left: 25vw;
+}
+
+.top-h1-name {
+    position: relative;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+   
+}
+
+.top-h2-desc {
+    /*font-family: 'Squada One', cursive;*/
+    font-family: 'Dongle', sans-serif;
+    margin: 0 auto 0 auto;
+    
+}
+
+
+.skill-img-l {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-img-r {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.profile-description-text {
+    
+    color: #40514E;
+    line-height: 2;
+    margin: auto;
+    
+}
+
+.copyright {
+    padding: 1rem 2rem;
+    color: #E6F6F6;
+    font-size: 0.8rem;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    color: #ffffff;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    font-size: 2rem;
+    
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+.contact-me p {
+    margin-bottom: 3rem;
+}
+
+.profile {
+    width: 50%;
+    margin: 6rem auto 6rem auto;
+    text-align: left;
+}
+
+.profile-img-left {
+    width: 35%;
+    float: left;
+    margin-right: 3rem;
+   
+}
+
+.profile-img-left:hover {
+    background-color: #EAF6F6;
+    -webkit-border-radius: 16;
+    -moz-border-radius: 16;
+    border-radius: 16px;
+}
+
+.footer-link {
+    font-size: 2rem;
+    margin: 1rem;
+}
